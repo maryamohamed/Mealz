@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Primary Palette-->
+    <color name="primary">#0C6390</color>
+    <!--Secondary Palette-->
+    <color name="secondary">#3281AB</color>
+
+    <!--Primary Dark Palette-->
+    <color name="primary_dark">#164863</color>
+    <!--Secondary Dark Palette-->
+    <color name="secondary_dark">#427D9C</color>
+
+    <!--Black Palette-->
+    <color name="black">#FF000000</color>
+    <color name="black87">#DE121212</color>
+    <color name="black60">#99121212</color>
+    <color name="black37">#5E121212</color>
+    <color name="black8">#14121212</color>
+
+    <!--White Palette-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_fa">#FFFAFAFA</color>
+    <color name="white_ec">#FFECECEC</color>
+    <color name="white_e1">#FFE1E1E1</color>
+
+    <!--Other-->
+    <color name="error">#811D15</color>
+    <color name="success">#12B66A</color>
+    <color name="warning">#FCAF22</color>
+    <color name="card_background">#BDB4B4</color>
+</resources>

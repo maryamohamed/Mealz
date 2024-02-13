@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TechCare</string>
+    <string name="home">الرئيسية</string>
+    <string name="notifications">الاشعارات</string>
+    <string name="history">السجل</string>
+    <string name="profile">الحساب</string>
+</resources>
